@@ -74,7 +74,7 @@ let user1: User = {
 
 console.log(user1);
 
-/**+-(4)-GENERICS EN TS:_ Los GENERICS EN TS en crear Objects o Arrays y Especificar qué Tipos de Datos van a contener los Mismos, de forma que no podamos intentar meterle ningún Dato de
+/**+-(4)-GENERICS EN TS:_ Los GENERICS EN TS es crear Objects o Arrays y Especificar qué Tipos de Datos van a contener los Mismos, de forma que no podamos intentar meterle ningún Dato de
  *  otro Tipo, porque nos dará Error. Su Sintaxis es la Siguiente:_*/
 
 let arrayOfNums: Array<number> = [1, 2, 3, 4];
